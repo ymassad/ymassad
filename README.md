@@ -1,4 +1,4 @@
-Hello
+Hello.
 
 My name is Yacoub Massad. I am a Software Architect/Developer working at Zeva International. I develop software using C# and .NET.
 
