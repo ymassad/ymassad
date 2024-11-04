@@ -1,6 +1,6 @@
 Hello.
 
-My name is Yacoub Massad. I am a Software Architect/Developer working at Zeva International. I develop software using C# and .NET.
+My name is Yacoub Massad. I am a Software Architect/Developer working at NextgenID. I develop software using C# and .NET.
 
 I am very interested in learning and teaching others about coding principles and practices that aim at creating maintainable software.
 
